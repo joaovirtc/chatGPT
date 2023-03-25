@@ -26,7 +26,7 @@ Em seguida, instale as dependências do projeto utilizando o seguinte comando:
 ```
 
     
-## 🔗  Link OpenAI API Key
+## 🔗  Link OpenAI Developers
 -  https://platform.openai.com/overview
 
 ## Stack Utilizada
