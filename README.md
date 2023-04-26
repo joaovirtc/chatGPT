@@ -3,6 +3,9 @@
 
 Este repositório contém um exemplo simples de como consumir a API do ChatGPT utilizando a linguagem JavaScript e o ambiente de execução Node.
 
+![App Screenshot](https://media.licdn.com/dms/image/D4D12AQGu__ujFHlVsQ/article-cover_image-shrink_720_1280/0/1671574787898?e=2147483647&v=beta&t=T_qcuXww_ELAzxYp5rQ48PHg4ZhpZgs37o6puJ35r1M)
+
+
 ## Pré-requisitos
 Para utilizar o código deste repositório, é necessário ter instalado o Node.js e o gerenciador de pacotes npm.
 ## Instalação
@@ -36,5 +39,5 @@ Em seguida, instale as dependências do projeto utilizando o seguinte comando:
 
 
 
-![App Screenshot](https://media.licdn.com/dms/image/D4D12AQGu__ujFHlVsQ/article-cover_image-shrink_720_1280/0/1671574787898?e=2147483647&v=beta&t=T_qcuXww_ELAzxYp5rQ48PHg4ZhpZgs37o6puJ35r1M)
+
 
